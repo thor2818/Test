@@ -113,7 +113,17 @@ namespace ConsoleApp1
             Console.WriteLine(GennemsnitAlderAfKlasse9A());
             AldersforskelAfTo(0, 1);
             AldersforskelAfTo(0, 2);
-
+            Console.WriteLine("IT WORKS!!!!!!!!!!")
+            Console.WriteLine("IT WORKS!!!!!!!!!!")
+            Console.WriteLine("IT WORKS!!!!!!!!!!")
+            Console.WriteLine("IT WORKS!!!!!!!!!!")
+            Console.WriteLine("IT WORKS!!!!!!!!!!")
+            Console.WriteLine("IT WORKS!!!!!!!!!!")
+            Console.WriteLine("IT WORKS!!!!!!!!!!")
+            Console.WriteLine("IT WORKS!!!!!!!!!!")
+            Console.WriteLine("IT WORKS!!!!!!!!!!")
+            Console.WriteLine("IT WORKS!!!!!!!!!!")
+            Console.WriteLine("IT WORKS!!!!!!!!!!")
             s = Console.ReadLine();
         }
     }
